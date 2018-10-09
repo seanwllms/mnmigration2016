@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539110450093.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EACFFCF3",
+    "lastKnownWriteTime" : 1539116506,
+    "last_content_update" : 1539116506953,
+    "path" : "W:/Sean Data/Other Data/mnmigration2016/clean.R",
+    "project_path" : "clean.R",
+    "properties" : {
+        "cursorPosition" : "56,34",
+        "scrollLine" : "45"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

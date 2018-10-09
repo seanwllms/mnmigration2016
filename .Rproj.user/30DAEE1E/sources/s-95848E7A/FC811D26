@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539115461719.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FC811D26",
+    "lastKnownWriteTime" : 1515433682,
+    "last_content_update" : 1515433682,
+    "path" : "W:/Sean Data/Other Data/mnmigration/netmig_grouped.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "15,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
